@@ -1,6 +1,6 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "Ideas to ponder"
+last_modified_at: 2025-03-09T16:20:02-05:00
 categories:
   - Blog
 tags:
@@ -8,7 +8,14 @@ tags:
   - readability
   - standard
 ---
+## I don't have title for this yet, so I go without a title
 
-This post has been updated and should show a modified date if used in a layout.
+- Mess is an opputunuity, why?
+most of the time poople flee from a mess *[there can be multiples messes]*
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+- how to add a video to this site at this place?
+{% include video id="kG2_6ToMZgI" provider = "youtube" %}
+
+so think you are having the best day of your life, you are over the moon at this moment. Then someone comes and tell you your entire stock portfolio has been wiped out. What caused that **sadness**?
+
+
