@@ -18,4 +18,10 @@ most of the time poople flee from a mess *[there can be multiples messes]*
 
 so think you are having the best day of your life, you are over the moon at this moment. Then someone comes and tell you your entire stock portfolio has been wiped out. What caused that **sadness**?
 
+```python
+def make_funcion(string):
+  for word in words:
+    print(string)
+```
+
 
