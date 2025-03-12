@@ -7,6 +7,7 @@ tags:
   - Post Formats
   - readability
   - standard
+toc: true
 ---
 ## I don't have title for this yet, so I go without a title
 
